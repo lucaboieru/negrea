@@ -1,10 +1,3 @@
-Ce faci negrea?
-
-Bine
-
-Hello
-
-Clear
-Hello
-Not modified yet
-Hello
+hello
+cefaci?
+bine
